@@ -1,7 +1,7 @@
-<img width="993" height="566" alt="image" src="https://github.com/user-attachments/assets/b0f0ebea-9e0c-4f20-b3c5-fde77b63e7f3" />
-
-
 # Análise de Vendas em Excel — Projeto Básico Analítico 🦾
+
+<img width="1121" height="619" alt="image" src="https://github.com/user-attachments/assets/846197e3-7679-4dd9-8d08-d48a65144474" />
+
 
 Projeto de análise básica de vendas em Excel utilizando **CONT.SE**, **CONT.SES**, filtros e listas suspensas para criação de consultas dinâmicas dentro de uma única planilha estruturada.
 
